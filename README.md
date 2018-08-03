@@ -1,2 +1,2 @@
 # cosmetic-hats
-Plugin which add cosmetic features to the game
+Plugin which add cosmetic features to the game.. Yes
